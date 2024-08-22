@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{70E29333-7946-4669-814A-1CBF3E30A16C}"
+	ProjectSection(SolutionItems) = preProject
+		TestList.md = TestList.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pricing.Core.Tests", "Pricing.Core.Tests\Pricing.Core.Tests.csproj", "{3BC9BDFD-103B-43EC-B9A0-E924CCCCBAA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C5CF5890-BC79-4278-B203-0245240FBB11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pricing.Core", "Pricing.Core\Pricing.Core.csproj", "{021F93ED-4346-4520-BDD1-55626FABF18C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3BC9BDFD-103B-43EC-B9A0-E924CCCCBAA1} = {70E29333-7946-4669-814A-1CBF3E30A16C}
+		{021F93ED-4346-4520-BDD1-55626FABF18C} = {C5CF5890-BC79-4278-B203-0245240FBB11}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC9BDFD-103B-43EC-B9A0-E924CCCCBAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC9BDFD-103B-43EC-B9A0-E924CCCCBAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC9BDFD-103B-43EC-B9A0-E924CCCCBAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC9BDFD-103B-43EC-B9A0-E924CCCCBAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021F93ED-4346-4520-BDD1-55626FABF18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021F93ED-4346-4520-BDD1-55626FABF18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021F93ED-4346-4520-BDD1-55626FABF18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021F93ED-4346-4520-BDD1-55626FABF18C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\bin\Debug\net8.0\Pricing.Core.deps.json
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\bin\Debug\net8.0\Pricing.Core.dll
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\bin\Debug\net8.0\Pricing.Core.pdb
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\obj\Debug\net8.0\Pricing.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\obj\Debug\net8.0\Pricing.Core.AssemblyInfoInputs.cache
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\obj\Debug\net8.0\Pricing.Core.AssemblyInfo.cs
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\obj\Debug\net8.0\Pricing.Core.csproj.CoreCompileInputs.cache
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\obj\Debug\net8.0\Pricing.Core.dll
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\obj\Debug\net8.0\refint\Pricing.Core.dll
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\obj\Debug\net8.0\Pricing.Core.pdb
+F:\My University\Level Three\.NET\JetBrains Rider IDE Code Project\TDD Project\TestDrivenDevelopment\Pricing.Core\obj\Debug\net8.0\ref\Pricing.Core.dll

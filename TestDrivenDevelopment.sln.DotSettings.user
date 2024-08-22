@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3BC9BDFD_002D103B_002D43EC_002DB9A0_002DE924CCCCBAA1_002Ff_003AUnitTest1_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78fb4175_002D87c2_002D4582_002Daca8_002Dac2e93d19007/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PricingTableSpecification" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3BC9BDFD-103B-43EC-B9A0-E924CCCCBAA1::net8.0::Pricing.Core.Tests.PricingTableSpecification&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7fed282e_002D26c6_002D49ac_002D882b_002D2fd6c1ec1dc8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_have_one_tier_when_created_with_one" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3BC9BDFD-103B-43EC-B9A0-E924CCCCBAA1::net8.0::Pricing.Core.Tests.PricingTableSpecification.Should_have_one_tier_when_created_with_one&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
